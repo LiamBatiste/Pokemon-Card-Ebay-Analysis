@@ -15,10 +15,10 @@ The cards chosen were the following:
 ### ***Charizard 2/102 Base Set***
  ![image](https://github.com/user-attachments/assets/8b754ff6-a19a-42fe-b4ce-341e3c60a047)
 
-### Blastoise 4/102 Base Set
+### ***Blastoise 4/102 Base Set***
 ![image](https://github.com/user-attachments/assets/1f46da93-0058-4a12-b363-054ce78389ca)
 
-### Venusaur 15/102 Base set
+### ***Venusaur 15/102 Base set***
 ![image](https://github.com/user-attachments/assets/3806d4cb-8654-4a18-b6c7-2d34aa9cbf60)
 
 
