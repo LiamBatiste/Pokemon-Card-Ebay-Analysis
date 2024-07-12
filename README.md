@@ -10,7 +10,7 @@ The main Goal of this Project was to Scrape recent Ebay Sales for Listed Pokemon
 <br></br>
 
 
-It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that 
+It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that the analysis would be more reliable and valid when visualised as a dashboard in Power Bi. 
 <br></br>
 The cards chosen were the following: 
 #### - Charizard 2/102 Base Set
