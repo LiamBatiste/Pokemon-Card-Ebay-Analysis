@@ -19,7 +19,8 @@ The cards chosen were the following:
 ![image](https://github.com/user-attachments/assets/1f46da93-0058-4a12-b363-054ce78389ca)
 
 #### - Venusaur 15/102 Base set
-![image](https://github.com/user-attachments/assets/07311296-bfe4-4f93-aa64-9d21f8e343de)
+![image](https://github.com/user-attachments/assets/46f5d953-e766-4fb5-a9aa-fc33b65d0184)
+
 
 <br></br>
 
