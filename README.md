@@ -7,7 +7,7 @@ The main Goal of this Project was to Scrape recent Ebay Sales for Listed Pokemon
 #### - Montoring Card Sale Prices (particularly auction items)
 #### - Evaluate card condition and rarity
 #### - Opportunities for higher resale of cards (Auction vs Buy it Now)
-
+<br>
 
 
 It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that 
