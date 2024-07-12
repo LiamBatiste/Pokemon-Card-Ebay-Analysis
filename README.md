@@ -2,7 +2,7 @@
 Analysis of Pokemon Card Ebay sold listings obtained through Automated Web Scraping. 
 
 The main Goal of this Project was to Scrape recent Ebay Sales for Listed Pokemon cards. By leveraging the scraped data and analysis process would help identify arbitrage opportunities in the Pokémon card market. The main aims were as follows:
-
+<br>
 #### - Identifying underpriced items 
 #### - Montoring Card Sale Prices (particularly auction items)
 #### - Evaluate card condition and rarity
