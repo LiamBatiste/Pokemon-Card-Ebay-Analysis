@@ -12,13 +12,13 @@ The main Goal of this Project was to Scrape recent Ebay Sales for Listed Pokemon
 It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that the analysis would be more reliable and valid when visualised as a dashboard in Power Bi. Further, a larger dataset would be crucial for later time series analysis as the data would be more representative of the current Pokemon card market. The Pokemon card market is and has been in high demand since their release back in 1999. Therefore not only are the cards in high demand, but cards that meet specific criteria can sell for very high prices, which could lead to a spike in average sale prices for a particular card (so we should be mindful of this). Given the high demand this provides great opotunity to resell items quickly, but can also cause market volitility.
 <br></br>
 The cards chosen were the following: 
-### - Charizard 2/102 Base Set
+### Charizard 2/102 Base Set
  ![image](https://github.com/user-attachments/assets/8b754ff6-a19a-42fe-b4ce-341e3c60a047)
 
-### - Blastoise 4/102 Base Set
+### Blastoise 4/102 Base Set
 ![image](https://github.com/user-attachments/assets/1f46da93-0058-4a12-b363-054ce78389ca)
 
-### - Venusaur 15/102 Base set
+### Venusaur 15/102 Base set
 ![image](https://github.com/user-attachments/assets/3806d4cb-8654-4a18-b6c7-2d34aa9cbf60)
 
 
