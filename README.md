@@ -13,7 +13,8 @@ It was important for the sales volume of the cards chosen to be high in order fo
 <br></br>
 The cards chosen were the following: 
 ### ***Charizard 2/102 Base Set***
- ![image](https://github.com/user-attachments/assets/8b754ff6-a19a-42fe-b4ce-341e3c60a047)
+![image](https://github.com/user-attachments/assets/e89fceaa-d4b8-47ee-9ac6-9ea75399d7fa)
+
 
 ### ***Blastoise 4/102 Base Set***
 ![image](https://github.com/user-attachments/assets/1f46da93-0058-4a12-b363-054ce78389ca)
