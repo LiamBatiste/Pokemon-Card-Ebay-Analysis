@@ -16,7 +16,7 @@ The cards chosen were the following:
 ![image](https://github.com/user-attachments/assets/233bbe53-0ef1-48ab-bfed-f9ac46c71821)
 
 ### ***Blastoise 4/102 Base Set***
-![image](https://github.com/user-attachments/assets/1f46da93-0058-4a12-b363-054ce78389ca)
+![image](https://github.com/user-attachments/assets/3391ebd4-5d6c-4f38-9bfd-a46b577eacb0)
 
 ### ***Venusaur 15/102 Base set***
 ![image](https://github.com/user-attachments/assets/3806d4cb-8654-4a18-b6c7-2d34aa9cbf60)
