@@ -44,16 +44,16 @@ The now transformed data was then visualised within Power BI, allowing for insig
 # Potential Leveraging of Data-Driven Strategies
 
 ### Market Timing and Price Fluctuations:
-Pokémon card prices vary based on factors such as seasonality, events, and media releases. By identifying these patterns, you can strategically purchase cards during low-price periods and sell them during peak demand. To optimize buying and selling times for maximum profitability, it’s essential to monitor and analyze price trends.
+Pokémon card prices vary based on factors such as seasonality, events, and media releases. By identifying these patterns through time series analysis, this allows for strategical purchasing of cards during low-price periods and resale during peak demand. To optimise buying and selling times for maximum profitability, it’s essential to monitor and analyse these price trends.
 
 ### Condition, Rarity, and Grading Impact:
-Cards in mint condition or those with rare features, like first editions or shadowless variants, command much higher prices, particularly when graded. The strategy here is to acquire high-quality, underpriced ungraded cards, and potentially get them graded to sell at a premium.
+The unqiueness of certain cards when coupled with high condition quality can command much higher prices, particularly after being graded. Therefore meaning more opportunity for acquiring high-quality cards which are 'underpriced' compared to the general market, thus leading to more opportunities to resell the cards at a premium (particularly after grading).
 
 ### Auction vs. Buy It Now (BIN) Dynamics:
-Auctions can sometimes result in lower prices if bidding activity is low, whereas BIN listings may be priced above or below market value. A good strategy is to target underpriced auction wins for resale via BIN at higher prices, or capitalize on undervalued BIN listings.
+Auctions can lead to lower final sale prices, especially if bidding activity is minimal, while Buy It Now (BIN) listings may be inconsistently priced relative to market value. This presents opportunities to acquire cards through auctions at a lower cost, which can then be resold at higher prices using the BIN option. Alternatively, undervalued BIN listings can be immediately capitalized on for a quick flip.
 
 ### Sales Volume and Quick Turnover:
-High sales volume, especially for iconic cards like Charizard, indicates strong, consistent demand, which enables quicker resales. Focusing on high-turnover cards ensures faster sales, minimizing holding periods and reducing risk.
+High sales volume, particularly for iconic cards like Charizard, reflects strong and consistent market demand, facilitating quicker resales. By focusing on cards with high turnover rates, you can achieve faster sales, thereby reducing the time spent holding inventory and mitigating associated risks.
 
 ### Predictive Analysis and Long-Term Investment:
-Time series analysis allows you to predict future price trends, while certain cards have strong long-term appreciation potential due to their nostalgia and rarity. Using predictive modeling to time your buys and sells, and identifying cards with long-term investment potential, can help maximize returns over time.
+Time series analysis provides the ability to forecast future price trends, while certain cards, due to their nostalgia and rarity, possess significant long-term appreciation potential. Leveraging predictive modeling allows for strategic timing in purchasing and selling, while identifying cards with long-term investment value can help maximize financial returns over time.
