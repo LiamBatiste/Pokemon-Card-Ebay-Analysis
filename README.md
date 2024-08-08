@@ -28,3 +28,20 @@ The cards chosen were the following:
 
 [Pokemon Card Ebay Analysis.pdf](https://github.com/user-attachments/files/16195697/Pokemon.Card.Ebay.Analysis.pdf)
 ![image](https://github.com/user-attachments/assets/b6b5a60d-8127-4ba0-b716-d76d65cf33b5)
+
+# Potential Leveraging of Data-Driven Strategies
+
+### Market Timing and Price Fluctuations:
+Pokémon card prices vary based on factors such as seasonality, events, and media releases. By identifying these patterns, you can strategically purchase cards during low-price periods and sell them during peak demand. To optimize buying and selling times for maximum profitability, it’s essential to monitor and analyze price trends.
+
+### Condition, Rarity, and Grading Impact:
+Cards in mint condition or those with rare features, like first editions or shadowless variants, command much higher prices, particularly when graded. The strategy here is to acquire high-quality, underpriced ungraded cards, and potentially get them graded to sell at a premium.
+
+### Auction vs. Buy It Now (BIN) Dynamics:
+Auctions can sometimes result in lower prices if bidding activity is low, whereas BIN listings may be priced above or below market value. A good strategy is to target underpriced auction wins for resale via BIN at higher prices, or capitalize on undervalued BIN listings.
+
+### Sales Volume and Quick Turnover:
+High sales volume, especially for iconic cards like Charizard, indicates strong, consistent demand, which enables quicker resales. Focusing on high-turnover cards ensures faster sales, minimizing holding periods and reducing risk.
+
+### Predictive Analysis and Long-Term Investment:
+Time series analysis allows you to predict future price trends, while certain cards have strong long-term appreciation potential due to their nostalgia and rarity. Using predictive modeling to time your buys and sells, and identifying cards with long-term investment potential, can help maximize returns over time.
