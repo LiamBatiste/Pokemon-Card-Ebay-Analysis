@@ -9,7 +9,8 @@ The main Goal of this Project was to Scrape recent Ebay Sales for Listed Pokemon
 #### - Opportunities for higher resale of cards (Auction vs Buy it Now)
 <br></br>
 
-It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that the analysis would be more reliable and valid when visualised as a dashboard in Power Bi. Further, a larger dataset would be crucial for later time series analysis as the data would be more representative of the current Pokemon card market. The Pokemon card market is and has been in high demand since their release back in 1999, therefore not only are the cards in high demand but cards that meet specific criteria can sell for very high prices, which could lead to a spike in average sale prices for a particular card (so we should be mindful of this). Given the high demand this provides great opotunity to resell items quickly, but can also cause market volitility.
+It was important for the sales volume of the cards chosen to be high in order for the analysis to be of value.  This would ensure that the analysis would be more reliable and valid when visualised as a dashboard in Power Bi. Further, a larger dataset would be crucial for later time series analysis as the data would be more representative of the current Pokemon card market. The Pokemon card market is and has been in high demand since their release back in 1999, therefore not only are the cards in high demand but cards that meet specific criteria can sell for very high prices, which could lead to a spike in average sale prices for a particular card (so we should be mindful of this). Given the high demand this provides great oportunity to resell items quickly, but can also cause market volitility.
+
 <br></br>
 The cards chosen were the following: 
 ### ***Charizard 2/102 Base Set***
@@ -21,9 +22,9 @@ The cards chosen were the following:
 ### ***Venusaur 15/102 Base set***
 ![image](https://github.com/user-attachments/assets/3806d4cb-8654-4a18-b6c7-2d34aa9cbf60)
 
-
-
 <br></br>
+
+Data Was Scraped using <b>Ebay.co.uk<b/>
 
 
 [Pokemon Card Ebay Analysis.pdf](https://github.com/user-attachments/files/16195697/Pokemon.Card.Ebay.Analysis.pdf)
