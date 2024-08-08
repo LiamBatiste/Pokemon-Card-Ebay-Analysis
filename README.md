@@ -24,7 +24,7 @@ The cards chosen were the following:
 <br></br>
 
 # The ETL Process
-The transactional sales data Was Scraped from <b>Ebay.co.uk<b> using a custom Python script, utitlising specifically the Selenium Library to extract the data of interest such as BIN/Bid Sale Prices, Sale Date, Item Condition, Sale Type etc. 
+The transactional sales data Was Scraped from <b>Ebay.co.uk</b> using a custom Python script, utitlising specifically the Selenium Library to extract the data of interest such as BIN/Bid Sale Prices, Sale Date, Item Condition, Sale Type etc. 
 
 The data was formatted as CSV file so it could then be brought into Power BI for transformation of data types, duplicate removal and cleansing of the sale types. 
 
