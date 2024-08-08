@@ -36,6 +36,8 @@ The now transformed data was then visualised within Power BI, allowing for insig
 #### - Card Price by Location
 #### - Influence of Bid Count on Average Price by Card
 
+<br></br>
+
 [Pokemon Card Ebay Analysis.pdf](https://github.com/user-attachments/files/16195697/Pokemon.Card.Ebay.Analysis.pdf)
 ![image](https://github.com/user-attachments/assets/b6b5a60d-8127-4ba0-b716-d76d65cf33b5)
 
