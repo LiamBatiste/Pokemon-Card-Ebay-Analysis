@@ -21,11 +21,20 @@ The cards chosen were the following:
 
 ### ***Venusaur 15/102 Base set***
 ![image](https://github.com/user-attachments/assets/3806d4cb-8654-4a18-b6c7-2d34aa9cbf60)
-
 <br></br>
 
-Data Was Scraped using <b>Ebay.co.uk<b/>
+# The ETL Process
+The transactional sales data Was Scraped from <b>Ebay.co.uk<b/> using a custom Python script, utitlising specifically the Selenium Library to extract the data of interest such as BIN/Bid Sale Prices, Sale Date, Item Condition, Sale Type etc. 
 
+The data was formatted as CSV file so it could then be brought into Power BI for transformation of data types, duplicate removal and cleansing of the sale types. 
+
+The now transformed data was then visualised within Power BI, allowing for insight into:
+#### - Card Price Trends Over Time by Card
+#### - Average Card Price by Condition 
+#### - Sales Volume by Card
+#### - Sales Volume by Sale Type (BIN/Auction)
+#### - Card Price by Location
+#### - Influence of Bid Count on Average Price by Card
 
 [Pokemon Card Ebay Analysis.pdf](https://github.com/user-attachments/files/16195697/Pokemon.Card.Ebay.Analysis.pdf)
 ![image](https://github.com/user-attachments/assets/b6b5a60d-8127-4ba0-b716-d76d65cf33b5)
