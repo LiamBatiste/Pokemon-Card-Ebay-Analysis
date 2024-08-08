@@ -57,3 +57,12 @@ High sales volume, particularly for iconic cards like Charizard, reflects strong
 
 ### Predictive Analysis and Long-Term Investment:
 Time series analysis provides the ability to forecast future price trends, while certain cards, due to their nostalgia and rarity, possess significant long-term appreciation potential. Leveraging predictive modeling allows for strategic timing in purchasing and selling, while identifying cards with long-term investment value can help maximize financial returns over time.
+
+# Lessons Learnt/Future Improvements
+- The Process I followed is 'stepped' and requires human intervention when bringing the data into Power BI and then to transform the data so it can be visualised. To improve the ETL pipeline I could use Power Automate to automatically load the data into Power BI and trigger a data refresh each time new data is brought in, which will also update the visuals to reflect said new data. Additionally, I could use industry standard practices such as AWS along with services such as S3, Lambda, and Glue for seamless data ingestion, transformation, and querying. <b> 
+Therefore it would be benefit to myself to gain a greater understanding of AWS services and possibly become AWS certified.</b>
+
+- The data that can be extracted from Ebay with respect to condition is either 'new (other)' or 'pre-owned' and so there is lack of classification given that the condition is measured nominally. This nominal classification of condition lacks the granularity that would allow for more nuanced analysis and possibly reduced risk of buying cards that have been associated with a misleading condition.
+
+
+
